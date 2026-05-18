@@ -118,26 +118,3 @@ pause
 ```
 
 ---
-
-## 📄 Lisensi
-
-Project ini dibuat untuk tujuan **pembelajaran** dan **portfolio**. Feel free to use and modify.
-
----
-
-**Made with ❤️ using Java OOP**
-
----
-
-Silakan copy seluruh teks di atas dan simpan sebagai file **`README.md`** di root folder project kamu.
-
----
-
-**Mau saya tambahkan?**
-
-- Bagian Screenshot
-- Cara kontribusi
-- Todo list untuk improvement selanjutnya
-- License file
-
-Ketik saja apa yang ingin ditambahkan ke README-nya.
