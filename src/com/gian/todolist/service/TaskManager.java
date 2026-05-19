@@ -1,7 +1,6 @@
 package com.gian.todolist.service;
 
 import com.gian.todolist.model.Task;
-import com.gian.todolist.model.Task.Category;
 import com.gian.todolist.util.FileHandler;
 import java.util.Comparator;
 import java.util.List;
